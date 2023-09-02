@@ -1,4 +1,4 @@
-n permutation r   or n combination r
+n permutation r 
 
 n can be an array of characters. n is the size of the arrays. r is the number of characters you want to pick at a time in the arrangement
 
